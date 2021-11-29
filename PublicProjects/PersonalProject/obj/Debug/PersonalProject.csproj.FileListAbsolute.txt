@@ -1,0 +1,7 @@
+C:\Users\Nicole Goral\source\repos\NicoleGoral\NicoleGoral.github.io\PublicProjects\PersonalProject\bin\Debug\PersonalProject.exe.config
+C:\Users\Nicole Goral\source\repos\NicoleGoral\NicoleGoral.github.io\PublicProjects\PersonalProject\bin\Debug\PersonalProject.exe
+C:\Users\Nicole Goral\source\repos\NicoleGoral\NicoleGoral.github.io\PublicProjects\PersonalProject\bin\Debug\PersonalProject.pdb
+C:\Users\Nicole Goral\source\repos\NicoleGoral\NicoleGoral.github.io\PublicProjects\PersonalProject\obj\Debug\PersonalProject.csprojAssemblyReference.cache
+C:\Users\Nicole Goral\source\repos\NicoleGoral\NicoleGoral.github.io\PublicProjects\PersonalProject\obj\Debug\PersonalProject.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Goral\source\repos\NicoleGoral\NicoleGoral.github.io\PublicProjects\PersonalProject\obj\Debug\PersonalProject.exe
+C:\Users\Nicole Goral\source\repos\NicoleGoral\NicoleGoral.github.io\PublicProjects\PersonalProject\obj\Debug\PersonalProject.pdb
