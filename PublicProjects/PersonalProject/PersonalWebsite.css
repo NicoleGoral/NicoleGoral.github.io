@@ -1,3 +1,83 @@
 ﻿body
 {
+    margin: 0;
+    padding: 0;
+    background-color:mistyrose;    
 }
+.Main {    
+    width: 450px;
+    background-color: azure;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px solid black;
+}
+nav {    
+    float: left;
+    background-color: lemonchiffon;
+    height: 200vh;
+}
+ul {
+    list-style-type: none;
+    margin-right: 0;
+}
+li a{
+    background-color: darkgrey;
+    text-decoration: none;
+    color: white;
+    text-align:center;
+    text-transform: uppercase;
+    padding: 1em 1.5em;
+    display: block;
+    margin: 5px;
+    border-radius: 25px;
+}
+
+.Contact {
+    width: 450px;
+    background-color: azure;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px solid black;
+}
+
+.Email {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:16px;
+}
+
+.MyInfo {
+    width: 450px;
+    background-color: azure;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px solid black;
+}
+.Skills {
+    width: 450px;
+    background-color: azure;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px solid black;
+}
+.skillsList{
+    list-style-type:circle;
+}
+.projects {
+    width: 450px;
+    background-color: azure;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px solid black;
+}
+
